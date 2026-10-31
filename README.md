@@ -6,13 +6,14 @@ Game: Rogue Galaxy (USA) SCUS-97490, Director's Cut, NTSC-U.
 Repo ini TIDAK berisi file game. Yang dibagikan hanya file patch (.xdelta)
 yang berisi perubahan terjemahan. Kamu wajib memakai ISO original milikmu sendiri.
 
-## Isi versi beta ini (v0.1-beta)
+## Isi versi beta ini (v0.2-beta)
 
 - Dialog cerita: ev01–ev07, ev14–ev18
 - Story pembuka: penuh (46 segmen)
 - NPC kota: 1 file (Salgin saat serangan beast)
 - Database item: skin + seluruh key item (317 item)
-- Belum diterjemahkan: consumables, deskripsi senjata, dan sebagian besar NPC kota
+- Database item (baru di v0.2-beta): consumables (41 item, 101 string) + deskripsi senjata (128 deskripsi dari 158 senjata)
+- Belum diterjemahkan: sebagian besar NPC kota (92 file)
 - Sengaja tidak digarap: papan hint dan teks movie
 
 ## Cara pakai (Android)
@@ -32,9 +33,8 @@ Sama seperti di atas, pakai xdelta UI / Delta Patcher di Windows atau Linux.
 
 ## Update
 
-Konten lanjutan (NPC, consumables, deskripsi senjata) akan dirilis sebagai
-versi berikutnya. Caranya sama: download patch terbaru, tempelkan ke ISO asli
-yang bersih.
+Konten lanjutan (NPC kota) akan dirilis sebagai versi berikutnya (v0.3).
+Caranya sama: download patch terbaru, tempelkan ke ISO asli yang bersih.
 
 ## Disclaimer
 
