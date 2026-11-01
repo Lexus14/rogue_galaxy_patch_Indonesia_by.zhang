@@ -15,7 +15,7 @@ yang berisi perubahan terjemahan. Kamu wajib memakai ISO original milikmu sendir
 - Database item: consumables (41 item, 101 string) + deskripsi senjata (128 deskripsi dari 158 senjata)
 - Sengaja tidak digarap: papan hint dan teks movie
 
-## Cara pakai (Android) — pakai UniPatcher
+## Cara pakai — pakai UniPatcher (Android)
 
 1. Install UniPatcher dari Play Store (gratis).
 2. Siapkan dua file: ISO asli Rogue Galaxy versi USA SCUS-97490 yang bersih
@@ -38,16 +38,15 @@ Verifikasi (opsional): ISO hasil patch yang benar berukuran 6967721984 byte
 dan MD5-nya 04fa3ab3a92650dce09b76a7e0d584df. Cek dengan perintah md5sum
 di Termux atau terminal.
 
-## Cara pakai (PC)
+ISO hasil patch juga bisa dimainkan di emulator PS2 PC — tinggal pindahkan
+file ISO hasil patch ke PC dan buka di emulator PS2 PC.
 
-1. Backup dulu ISO asli kamu. Jangan pernah menimpa file aslinya.
-2. Download file .xdelta dari halaman Releases repo ini.
-3. Buka aplikasi xdelta (xdelta UI / Delta Patcher di Windows atau Linux).
-4. Source: ISO asli kamu. Patch: file .xdelta. Output: file ISO baru
-   (beri nama lain, mis. "Rogue Galaxy ID.iso").
-5. Mainkan ISO hasil patch di emulator.
-6. Kalau patch gagal: pastikan ISO-mu versi USA SCUS-97490 (NTSC-U),
-   bukan versi Europe atau Jepang, dan ISO-mu belum pernah dipatch.
+## Kalau patch gagal
+
+- Pastikan ISO-mu versi USA SCUS-97490 (NTSC-U), bukan Europe atau Jepang.
+- Pastikan ISO-mu bersih, belum pernah dipatch.
+- Pastikan file patch yang dipakai adalah rogue-galaxy-id-v1.xdelta yang utuh
+  (247416 byte).
 
 ## Update
 
