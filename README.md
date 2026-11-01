@@ -1,4 +1,4 @@
-# Rogue Galaxy — Patch Bahasa Indonesia (Beta)
+# Rogue Galaxy — Patch Bahasa Indonesia (Final)
 
 Fan translation tidak resmi. Tidak berafiliasi dengan Sony maupun Level-5.
 Game: Rogue Galaxy (USA) SCUS-97490, Director's Cut, NTSC-U.
@@ -6,14 +6,13 @@ Game: Rogue Galaxy (USA) SCUS-97490, Director's Cut, NTSC-U.
 Repo ini TIDAK berisi file game. Yang dibagikan hanya file patch (.xdelta)
 yang berisi perubahan terjemahan. Kamu wajib memakai ISO original milikmu sendiri.
 
-## Isi versi beta ini (v0.2-beta)
+## Isi versi final ini (v1)
 
 - Dialog cerita: ev01–ev07, ev14–ev18
 - Story pembuka: penuh (46 segmen)
-- NPC kota: 1 file (Salgin saat serangan beast)
+- NPC kota: seluruh 93 file (2422 entri unik)
 - Database item: skin + seluruh key item (317 item)
-- Database item (baru di v0.2-beta): consumables (41 item, 101 string) + deskripsi senjata (128 deskripsi dari 158 senjata)
-- Belum diterjemahkan: sebagian besar NPC kota (92 file)
+- Database item: consumables (41 item, 101 string) + deskripsi senjata (128 deskripsi dari 158 senjata)
 - Sengaja tidak digarap: papan hint dan teks movie
 
 ## Cara pakai (Android)
@@ -33,8 +32,7 @@ Sama seperti di atas, pakai xdelta UI / Delta Patcher di Windows atau Linux.
 
 ## Update
 
-Konten lanjutan (NPC kota) akan dirilis sebagai versi berikutnya (v0.3).
-Caranya sama: download patch terbaru, tempelkan ke ISO asli yang bersih.
+v1 adalah rilis final terjemahan ini.
 
 ## Disclaimer
 
